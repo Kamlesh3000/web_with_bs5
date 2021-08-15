@@ -27,10 +27,11 @@
 }
 .site_name {
   flex: 1.2;
+  margin-top: 1em;
 }
 
 .title {
-  font-size: 5rem;
+  font-size: 4rem;
   font-family: AlexBrush;
   font-weight: bold;
 }
