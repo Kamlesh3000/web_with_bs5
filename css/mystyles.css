@@ -206,12 +206,12 @@
   color: white;
 }
 .newsletter .form-control {
-  height: 50px;
+  height: 5.5vh;
   border-color: transparent;
   border-radius: 20px 0 0 20px;
 }
 .newsletter .btn {
-  min-height: 50px;
+  min-height: 5.5vh;
   border-radius: 0 20px 20px 0;
   background: orangered;
   color: #fff;
