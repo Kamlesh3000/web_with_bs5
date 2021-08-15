@@ -200,24 +200,23 @@
   }
 }
 
-/* START : Home page 4th newsletter section */
-.home-newsletter {
+/* START :about us page newsletter section */
+.newsletter {
   background-color: teal;
   color: white;
 }
-.home-newsletter .form-control {
+.newsletter .form-control {
   height: 50px;
   border-color: transparent;
   border-radius: 20px 0 0 20px;
 }
-.home-newsletter .btn {
+.newsletter .btn {
   min-height: 50px;
   border-radius: 0 20px 20px 0;
   background: orangered;
   color: #fff;
 }
-
-/* END : Home page 4th newsletter section */
+/* END :about us page newsletter section */
 
 .qualities-img {
   width: 200px;
